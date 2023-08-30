@@ -16,4 +16,6 @@ def test_calculate_area_square_string():
 def test_calculate_area_square_list():
     with pytest.raises(TypeError):
         calculate_area_square([2])
-        
+
+
+        #truc
